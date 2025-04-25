@@ -18,6 +18,16 @@ DEADLINE: 23H59:59 NGÀY 25/4/2025
 
 Ghi chú: Giải thích tại sao lại có SQL như vậy.
 ## Bài làm
-#1. Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
+##1. Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
 Đầu tiên ta mở file đã cho sv_tnut.sql
 ![image](https://github.com/user-attachments/assets/b607b98e-c78d-454a-90ae-4b25fc2e78a0)
+Ta thêm dòng CREATE DATABASE sv_tnut; GO lên trên và chạy code, sau đó refresh ta sẽ được vậy
+![image](https://github.com/user-attachments/assets/4f8c4e22-424f-4680-809a-fbcc19a2f66b)
+# 2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)
+![image](https://github.com/user-attachments/assets/e3bda6c0-7d5d-421b-8def-006bf072fd9f)
+# 3. nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
+![image](https://github.com/user-attachments/assets/695bdeb0-960e-407a-8f62-cf9732c13fe1)
+
+
+
+
