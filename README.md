@@ -59,6 +59,8 @@ Như câu 6 ta đổi lại tìm hodem
 # 8. nhập sql để tìm xem có những sv nào có sđt sai khác chỉ 1 số so với sđt của em.
 ![image](https://github.com/user-attachments/assets/63a0ef05-5ef5-4104-b375-b68c830f548f) 
 
+Sử dụng hàm lệnh Case When SubString để so sánh từng kí tự số trong sdt và chỉ ra tổng số sai số
+
 Với code trên không có số nào chỉ sai 1 số ngoại trừ số gốc với 0 sai số
 
 # 9. BẢNG SV CÓ HƠN 9000 ROWS, HÃY LIỆT KÊ TẤT CẢ CÁC SV NGÀNH KMT, SẮP XẾP THEO TÊN VÀ HỌ ĐỆM, KIỂU TIẾNG  VIỆT, GIẢI THÍCH.
