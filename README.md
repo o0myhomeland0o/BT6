@@ -31,14 +31,20 @@ Ta thêm dòng CREATE DATABASE sv_tnut; GO lên trên và chạy code, sau đó 
 ![image](https://github.com/user-attachments/assets/e3bda6c0-7d5d-421b-8def-006bf072fd9f)
 # 3. nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
 ![image](https://github.com/user-attachments/assets/695bdeb0-960e-407a-8f62-cf9732c13fe1) 
+Dùng lệnh select để lấy các trường thuộc tính có trong table sv
+Và lệnh Where để tìm những người có cùng thông tin ngày tháng năm sinh
 # 4. nhập sql để tìm xem có những sv nào trùng ngày và tháng sinh với em?
 ![image](https://github.com/user-attachments/assets/b6d654ce-3d0f-494d-b3b7-41d575d43650) 
+Như câu trên nhưng sửa lại để chỉ lấy ngày và tháng
 # 5. nhập sql để tìm xem có những sv nào trùng tháng và năm sinh với em?
 ![image](https://github.com/user-attachments/assets/e6a9a81a-ef18-42f3-b068-ca0d3bcca096) 
+Tại đây chỉ lấy tháng và năm
 # 6. nhập sql để tìm xem có những sv nào trùng tên với em?
 ![image](https://github.com/user-attachments/assets/7bca8882-5b99-42ca-8fe2-9264031ab48b) 
+Thay thế lại code trên để tìm thông tin ten
 # 7. nhập sql để tìm xem có những sv nào trùng họ và tên đệm với em.
 ![image](https://github.com/user-attachments/assets/4593373a-d704-4f80-9e13-ba9e46eb229e) 
+Như câu 6 ta đổi lại tìm hodem
 # 8. nhập sql để tìm xem có những sv nào có sđt sai khác chỉ 1 số so với sđt của em.
 ![image](https://github.com/user-attachments/assets/63a0ef05-5ef5-4104-b375-b68c830f548f) 
 
