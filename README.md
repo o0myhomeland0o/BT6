@@ -47,6 +47,13 @@ Với code trên không có số nào chỉ sai 1 số ngoại trừ số gốc 
 # 9. BẢNG SV CÓ HƠN 9000 ROWS, HÃY LIỆT KÊ TẤT CẢ CÁC SV NGÀNH KMT, SẮP XẾP THEO TÊN VÀ HỌ ĐỆM, KIỂU TIẾNG  VIỆT, GIẢI THÍCH.
 ![image](https://github.com/user-attachments/assets/db64c07b-c71e-4ad5-93e1-9e1d8b3b2c57) 
 # 10. HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC)
+![image](https://github.com/user-attachments/assets/e9deb5d9-1817-42f3-8c7c-d3c9920a6575) 
+
+Ở đây em lọc với cách dùng họ Thị và ở lớp KMT , đương nhiên vẫn sẽ có lỗi bởi có những bạn nữ không có họ Thị sẽ bị lọt mất
+
+còn dưới đây là chuyển đổi lớp thành KTP bởi vì lớp của chúng em đã đổi tên nên cũng sẽ bị lọt qua
+
+![image](https://github.com/user-attachments/assets/add76d2e-6704-49e3-8cae-6d3cea257515)
 
 
 
